@@ -1,10 +1,7 @@
 # PageRank Algorithm (Sampling & Iteration)
 
-A standalone implementation of the **PageRank algorithm**, using both
+The PageRank Algorithm is an incredibly popular, yet rather simple algorithm that was used by Google in its early days. This repository presents a standalone reimplementation of the same, using both
 sampling-based estimation and iterative convergence methods.
-
-This project demonstrates probabilistic modeling and graph-based ranking
-techniques commonly used in search engines and network analysis.
 
 ---
 
