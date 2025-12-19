@@ -44,7 +44,7 @@ Both approaches return normalized PageRank scores that sum to 1.
 
 ---
 
-## Academic Context
+## Note
 
 This implementation is based on concepts from
 **Harvard’s CS50 Introduction to Artificial Intelligence with Python**. 
